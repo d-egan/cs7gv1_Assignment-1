@@ -1,7 +1,7 @@
 # cs7gv1_Assignment-1
 Assignment 1 repo
 
-Both parts are notebooks made with Google Colab. You should be able to run all part A but part B is extremely slow.
+Both parts are notebooks made with Google Colab. You should be able to run all for part A but part B is extremely slow. Google Colab and cv2_imshow() should display correctly, jupyter and plt.imshow() is a little buggy.
 
 ## A
 
